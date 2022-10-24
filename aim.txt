@@ -1,0 +1,15 @@
+(deve ter mais de 10 jogos)
+Separar por posição e fazer a visualização por posição.
+
+Visualizar os artilheiros do ano.
+Goleiros mais vazados
+Goleiros menos vazados
+Maiores assistencias
+Mais desarmes feitos
+Mais faltas cometidas
+Mais cartões amarelos
+Mais cartões vermelhos
+Cruzamentos feitos
+
+Observar Maior gol por jogo
+Observar mais coisas com base nos atributos
